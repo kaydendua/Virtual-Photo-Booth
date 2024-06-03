@@ -19,12 +19,13 @@ Install the required packages using pip3:
 ```
 pip3 install opencv-python dlib imutils
 ```
+You also need to install cvzone.
+```
+pip install cvzone
+```
 When you are ready, open IDLE with:
 ```
 python -m idlelib
 ```
 
-You also need to install cvzone.
-```
-pip install cvzone
-```
+
